@@ -1,7 +1,7 @@
 #Mass++ Data Class
 
 ## Data IO Class (draft)
-[Class Diagram draft](http://hautbois.jp/~masaki/mspp-common-lib/DataClass_draft1.png "Class diagram of Data IO Class")
+![Class Diagram draft](http://hautbois.jp/~masaki/mspp-common-lib/DataClass_draft1.png "Class diagram of Data IO Class")
 
 
 
