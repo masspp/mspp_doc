@@ -1,9 +1,8 @@
-#Mass++ Data Class
+#Mass++ Data IO Interface
 
 ## Data IO Class (draft)
+Mass++ ver2 の Data IO Class から、DataGroupNodeを除去し、Chromatogram と Spectrum を直接 Sample に接続した(SampleにDataGroupNode(DataSet)の機能の一部を移した)。
 ![Class Diagram draft](http://hautbois.jp/~masaki/mspp-common-lib/DataClass_draft1.png "Class diagram of Data IO Class")
-
-
 
 
 
